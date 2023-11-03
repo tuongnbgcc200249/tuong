@@ -61,7 +61,7 @@
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="https://www.facebook.com/hill.luck.96"><i class="fa fa-facebook"></i></a></li>
+								<!-- <li><a href=""><i class="fa fa-facebook"></i></a></li> -->
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>								
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
@@ -222,7 +222,7 @@
                         <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
                              specializing in retailing toy products for children over 13 years old.</p>
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/hill.luck.96" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <!-- <a href="" target="_blank"><i class="fa fa-facebook"></i></a> -->
                             <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>

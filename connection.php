@@ -1,6 +1,7 @@
 <?php 
 
-    $conn = mysqli_connect('frwahxxknm9kwy6c.cbetxkdyhwsb.us-east-1.rds.amazonaws.com','kbibiqs23o89vcfh','z5aii4bwneyrsm3k','z3a8dj8hyqvde9xt') 
+    $conn = mysqli_connect('i0rgccmrx3at3wv3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    'n1p83ap3pnkne39a','yulefa7fq1ffsfgp','bff0qcig19u03ad2') 
     
   
 ?>
